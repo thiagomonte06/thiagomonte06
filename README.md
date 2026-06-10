@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/yqngk7U.png" width="100%">
+  <img src="https://imgur.com/i53KK4U.png" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou Thiago Monte👋</h1>
